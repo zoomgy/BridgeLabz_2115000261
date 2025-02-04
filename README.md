@@ -7,11 +7,9 @@ This repository contains the assignments completed during my training at Capgemi
 ### 20/01/25
 
 - **Topics Covered**:
-  - Introduction to Java: Overview of the Java programming language, its history, and its usage in modern software development.
   - Features of Java: Key features of Java such as platform independence, object-oriented nature, and built-in memory management.
   - Components of Java: Discussed the major components like JVM, JRE, and JDK.
   - Difference between JVM, JRE, and JDK: Explanation of the roles and functions of each component in the Java ecosystem.
-  - Variables in Java: Introduction to variables, data types, and variable declaration in Java.
 - **Assignment**: Submitted assignment on the above topics.
 
 ### 21/01/25
@@ -40,10 +38,11 @@ This repository contains the assignments completed during my training at Capgemi
 ### 24/01/25
 
 - **Event**: Inauguration Ceremony.
-- **Assignment**: Submitted assignment on event-related tasks.
 
 ### 25/01/25
 
+- **Topics Covered**:
+  - Arrays and Array Manipulation
 - **Assignment**: Submitted assignment on Arrays, discussing how to store and manipulate data collections.
 
 ### 27/01/25
@@ -81,11 +80,12 @@ This repository contains the assignments completed during my training at Capgemi
 - **Topics Covered**:
   - Java Constructor: Introduction to constructors and their role in object initialization.
   - Instance and Class Variables: Explained the difference between instance variables and class variables.
-  - Access Modifiers: Overview of access control in Java using public, private, protected, and default.
 - **Assignment**: Submitted assignment on Constructor, Instance and Class Variables, and Access Modifiers.
 
 ### 02/02/25
 
+- **Topics Covered**:
+  - Access Modifiers: Overview of access control in Java using public, private, protected, and default.
 - **Assignment**: Submitted assignment on Constructor, Instance and Class Variables, and Access Modifiers.
 
 ### 04/02/25
