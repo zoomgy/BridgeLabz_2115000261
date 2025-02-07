@@ -91,5 +91,17 @@ This repository contains the assignments completed during my training at Capgemi
 ### 04/02/25
 
 - **Topics Covered**:
-  - `this`, `static`, `final` keyword and `instanceof` operator: Explained the usage and significance of these keywords in Java programming.
+  - this, static, final keyword and instanceof operator: Explained the usage and significance of these keywords in Java programming.
 - **Assignment**: Submitted assignment on the above topics.
+
+### 06/02/25
+
+- **Topics Covered**:
+  - Object-Oriented Design Principles: Discussed fundamental principles like SOLID, DRY, and KISS for designing maintainable and scalable applications.
+- **Assignment**: Submitted assignment on Object-Oriented Design Principles.
+
+### 07/02/25
+
+- **Topics Covered**:
+  - Inheritance in Java: Covered types of inheritance, method overriding, and super keyword usage.
+- **Assignment**: Submitted assignment on Inheritance in Java.
